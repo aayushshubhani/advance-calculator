@@ -1,6 +1,8 @@
 window.addEventListener("load", bindEvents);
+//default load
 
 var textBox;
+//layout
 
 function bindEvents() {
     textBox = document.querySelector("#box");
